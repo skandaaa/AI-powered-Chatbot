@@ -1,0 +1,7 @@
+streamlit
+cohere
+langchain
+langchain-community
+faiss-cpu
+pydantic
+typing-extensions
